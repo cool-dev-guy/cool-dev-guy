@@ -1,3 +1,4 @@
+Visitors Count: ![img](https://profile-counter.glitch.me/cool-dev-guy/count.svg)
 - 👋 Hi, I’m @cool-dev-guy
 - 👀 I’m interested in Impossible (ik its cringe but i like it)
 - 📫 How to reach me ,Drop an issue
